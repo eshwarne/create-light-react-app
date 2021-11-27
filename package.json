@@ -1,0 +1,11 @@
+{
+  "name": "create-light-react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eshwarne/create-light-react-app.git",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
